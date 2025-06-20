@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: aqua;
+}
+.bkg{
+    background-color: bisque;
+    height: 100%;
+    width: 100%;
+}
+
+#bulb{
+height: 400px;
+width: 400px;
+border-radius: 50%;
+background-color: transparent;
+border: 4px solid black;
+}
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+    margin: 100px;
+  
+}
